@@ -1,0 +1,54 @@
+body{
+	font: 20px, Arial, sans-serif;
+}
+
+.navbar {
+	background-color: black;
+}
+
+.navbar-light .navbar-nav .nav-link{
+	color: white;
+	font-size: 20px;
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+	color: #f08920;
+}
+
+.navbar-collapse{
+	margin-top: 15px;
+	margin-left: 20px;
+}
+
+.logo{
+margin-left: 50px;
+margin-top: 20px;
+}
+
+.quem-somos{
+	background-color: #71b842;
+	color: white;
+}
+
+.margin{
+	padding-bottom: 50px;
+	padding-top: 10px;
+}
+
+.margin-nav{
+	padding-bottom: 15px;
+}
+
+a.nav-link{
+	color: white;
+}
+
+.parceiros{
+	background-color: #34a9df;
+	color: white;
+}
+
+.bg-footer{
+	background-color: black;
+	color: white;
+}
